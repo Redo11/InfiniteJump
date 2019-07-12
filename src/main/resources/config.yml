@@ -1,34 +1,35 @@
 # InfiniteJump configuration
 # by MrMicky
 
-UpdateChecker: true
+UpdateChecker: false
 
 #Cooldown between each jump in ticks
-Cooldown: 0
+Cooldown: 5
 
-Velocity: 2
-VelcocityUp: 1.5
+Velocity: 1.5
+VelcocityUp: 2
 
 Sound:
-  Enable: true
+  Enable: false
   Sound: ENTITY_BAT_TAKEOFF
   Volume: 1.0
   Pitch: 1.0
 
 Particles:
-  Enable: true
+  Enable: false
   Particle: CRIT_MAGIC
   Amount: 5
 
 Messages:
-  Activated: "&aMultiple jump activated"
-  Disabled: "&cMultiple jump disabled"
+  Activated: "&aDouble jump włączony"
+  Disabled: "&cDouble jump wyłączony"
 
 RemoveFallDamages: true
 
 EnableOnJoin: true
 
-WorldsWhitelist: false
+WorldsWhitelist: true
 
 Worlds:
-- "world"
+- "mashroomknock"
+
