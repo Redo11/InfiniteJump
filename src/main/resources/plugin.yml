@@ -1,7 +1,7 @@
-name: InfiniteJump
+name: MushroomKnock-BlazePvP
 version: ${project.version}
-author: MrMicky
-description: The ultimate double jump / infinite jump plugin !
+author: Us + Github guy
+description: The ultimate double jump plugin !
 website: https://www.spigotmc.org/resources/inifinitejump.51522/
 softdepend: [Spartan, AAC, NoCheatPlus]
 main: fr.mrmicky.infinitejump.InfiniteJump
