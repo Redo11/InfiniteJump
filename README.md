@@ -5,3 +5,7 @@ The ultimate Bukkit double jump plugin: double jump, triple jump, infinite jump 
 
 ## Downloads
 You can download releases and find more information on [SpigotMC](https://www.spigotmc.org/resources/inifinitejump.51522/).
+
+# This fork is just little rebranding
+## ORIGINAL
+https://github.com/MrMicky-FR/InfiniteJump
